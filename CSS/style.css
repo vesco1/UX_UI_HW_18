@@ -1,0 +1,25 @@
+header {
+    height: 50%;
+    background-color: #F0EEEC;
+}
+
+.logo {
+    padding: 1%;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    display: inline-block;
+    padding: 20px;
+}
+
+.navigation {
+    text-align: right;
+    color: black;}
+
+.flexContainer {
+    display: flex;
+}
